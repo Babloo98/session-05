@@ -1,0 +1,56 @@
+doubts :
+pseudo classes 
+Input regex
+
+Session : 
+Flexbox ---> most important 
+Media query
+
+
+Flexbox : 
+It is used for layouting .
+concept : parent-child relationship
+froggy game
+
+Media-query : 
+Media query is basically used for designing web page in different 
+screen resolutions :
+
+@media screen and (min-width: 480px){
+    body {
+        background : red
+    }
+} 
+
+@media screen and (max-width: 900px) and (min-wdth: 600px) {
+    body{
+        background-color: red;
+    }
+}
+
+
+@media screen and (min-width: 901px){
+    body{
+        background : white
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
